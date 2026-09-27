@@ -3,7 +3,9 @@
 </p>
 
 
-## Hi there my gorgeous friend <img src="./hello.gif" width="28px" alt="hi">
+<h2 align="center">
+Hi there my gorgeous friend <img src="./hello.gif" width="28px" alt="hi">
+</h2>
 
 <h3 align="center">
   AI-Driven Web Application Engineer | MERN Stack
