@@ -6,7 +6,7 @@
 
 <!-- ===================== INTRO ===================== -->
 
-<h1 align="center">Hi 👋, I'm Samrat Ahmed</h1>
+<h1 align="center">Hi, 👋  I'm Samrat Ahmed</h1>
 
 <h3 align="center">
   AI-Driven Full Stack Web Application Engineer | MERN Stack
