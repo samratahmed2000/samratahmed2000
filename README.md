@@ -72,12 +72,6 @@ I enjoy turning ideas into functional, user-friendly and responsive web experien
   <a href="https://tailwindcss.com/">
     <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS" />
   </a>
-  <a href="https://www.better-auth.com/">
-  <img src="https://www.better-auth.com/favicon.ico" height="45" alt="Better Auth" />
-</a>
-  <a href="https://www.heroui.com/">
-  <img src="https://www.heroui.com/favicon.ico" height="45" alt="HeroUI" />
-</a>
 </p>
 
 ### Backend & Database
