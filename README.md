@@ -4,7 +4,7 @@
 
 
 <h2 align="center">
-Hi there my gorgeous friend <img src="./hello.gif" width="28px" alt="hi">
+Hi - Welcome <img src="./hello.gif" width="28px" alt="hi">
 </h2>
 
 <h3 align="center">
