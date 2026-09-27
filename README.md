@@ -9,7 +9,7 @@
 <h1 align="center">Hi, 👋  I'm Samrat Ahmed</h1>
 
 <h3 align="center">
-  AI-Driven Full Stack Web Application Engineer | MERN Stack
+  AI-Driven Web Application Engineer | MERN Stack
 </h3>
 
 <p align="center">
@@ -28,7 +28,7 @@
 
 ## 👨‍💻 About Me
 
-I'm an **AI-Driven Full Stack Web Application Engineer** focused on building modern web applications using the MERN ecosystem and related technologies.
+I'm an **AI-Driven Web Application Engineer** focused on building modern web applications using the MERN ecosystem and related technologies.
 
 I enjoy turning ideas into functional, user-friendly and responsive web experiences. Currently, I'm continuously improving my full-stack development skills and working toward building production-grade applications with modern JavaScript technologies.
 
@@ -36,7 +36,7 @@ I enjoy turning ideas into functional, user-friendly and responsive web experien
 
 ## 🚀 Current Activities
 
-* 🌱 I'm exploring **Next.js** and modern full-stack web development.
+* 🌱 I'm exploring **Next.js** and modern web development.
 * 🔐 I'm learning **authentication and authorization** with modern authentication solutions.
 * 💻 I'm building responsive and production-oriented web applications.
 * 🧠 I'm exploring **AI-assisted software development** and AI-powered application features.
@@ -74,15 +74,9 @@ I enjoy turning ideas into functional, user-friendly and responsive web experien
   </a>
 </p>
 
-### Backend & Database
+### Database
 
 <p align="left">
-  <a href="https://nodejs.org/">
-    <img src="https://skillicons.dev/icons?i=nodejs" height="45" alt="Node.js" />
-  </a>
-  <a href="https://expressjs.com/">
-    <img src="https://skillicons.dev/icons?i=express" height="45" alt="Express.js" />
-  </a>
   <a href="https://www.mongodb.com/">
     <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB" />
   </a>
@@ -147,9 +141,6 @@ I enjoy turning ideas into functional, user-friendly and responsive web experien
   <a href="https://www.github.com/samratahmed2000">
     <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
   </a>
-  <a href="https://www.facebook.com/samratahmed2000">
-  <img src="https://skillicons.dev/icons?i=facebook" height="45" alt="Facebook" />
-</a>
   <a href="mailto:ah.samrat.1031@gmail.com">
   <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email" />
 </a>
