@@ -12,7 +12,7 @@ Hi - Welcome <img src="./hello.gif" width="28px" alt="hi">
 </h3>
 
 <p align="center">
- I'm Samrat Ahmed (Dhaka, Bangladesh), a Bangladeshi <img src="./bangladesh.png" width="18"/> AI-Driven Web Application Engineer | MERN Stack. I'm exploring building modern, responsive and production-oriented web applications with JavaScript, TypeScript, React, Next.js and the MERN ecosystem.
+ I'm Samrat Ahmed (Dhaka, Bangladesh), a Bangladeshi <img src="./bangladesh.png" width="18"/> AI-Driven Web Application Engineer | MERN Stack. I'm exploring building Modern, Responsive and Production-Oriented Web Applications with JavaScript, TypeScript, React, Next.js and the MERN Ecosystem.
 </p>
 
 ---
@@ -25,12 +25,12 @@ Hi - Welcome <img src="./hello.gif" width="28px" alt="hi">
 
 ## 🚀 Current Activities
 
-* 🌱 I'm exploring **Next.js** and modern web development.
-* 🔐 I'm learning **authentication and authorization** with modern authentication solutions.
-* 💻 I'm building responsive and production-oriented web applications.
-* 🧠 I'm exploring **AI-assisted software development** and AI-powered application features.
+* 🌱 I'm exploring **Next.js** and Modern Web Development.
+* 🔐 I'm learning **Authentication and Authorization** with Modern Authentication Solutions.
+* 💻 I'm building Responsive and Production-Oriented Web Applications.
+* 🧠 I'm exploring **AI-Assisted Software Development** and AI-Powered Application Features.
 * 📚 I'm continuously improving my **JavaScript and TypeScript** skills.
-* 🚀 I'm working toward becoming a stronger **MERN Stack Full Stack Developer**.
+* 🚀 I'm working toward becoming a stronger **MERN Stack Full Stack Web Application Engineer**.
 * 🛠️ I'm building and improving personal projects to strengthen my practical development skills.
 
 ---
