@@ -1,12 +1,9 @@
-<!-- ===================== BANNER ===================== -->
-
 <p align="center">
   <img src="./github-banner.png" alt="Samrat Ahmed - AI-Driven Full Stack Web Application Engineer" width="100%" />
 </p>
 
-<!-- ===================== INTRO ===================== -->
 
-<h1 align="center">Hi, 👋  I'm Samrat Ahmed</h1>
+## Hi there my gorgeous friend <img src="./hello.gif" width="28px" alt="hi">
 
 <h3 align="center">
   AI-Driven Web Application Engineer | MERN Stack
@@ -16,21 +13,17 @@
   Building modern, responsive and production-oriented web applications with JavaScript, TypeScript, React, Next.js and the MERN ecosystem.
 </p>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/samratahmed2000">LinkedIn</a>
-  &nbsp;•&nbsp;
-  <a href="ah.samrat.1031@gmail.com">Email</a>
-  &nbsp;•&nbsp;
-  <a href="https://www.github.com/samratahmed2000">GitHub</a>
-</p>
-
 ---
 
 ## 👨‍💻 About Me
 
-I'm an **AI-Driven Web Application Engineer** focused on building modern web applications using the MERN ecosystem and related technologies.
+I'm Samrat Ahmed (Dhaka, Bangladesh), a Bangladeshi <img src="./bangladesh.png" width="18"/> AI-Driven Web Application Engineer | MERN Stack. I'm exploring building modern, responsive and production-oriented web applications with JavaScript, TypeScript, React, Next.js and the MERN ecosystem.
 
-I enjoy turning ideas into functional, user-friendly and responsive web experiences. Currently, I'm continuously improving my full-stack development skills and working toward building production-grade applications with modern JavaScript technologies.
+---
+
+:coffee: &emsp;Connect with me!
+
+[![Facebook Badge](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://facebook.com/samratahmed2000) [![Youtube Badge](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/samratahmed2000) [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samratahmed2000) [![Instagram Badge](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/samratahmed2000) [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ah.samrat.1031@gmail.com)
 
 ---
 
@@ -48,62 +41,10 @@ I enjoy turning ideas into functional, user-friendly and responsive web experien
 
 ## 🛠️ Skills & Technologies
 
-### Frontend Development
+#### Things I code with
 
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML">
-    <img src="https://skillicons.dev/icons?i=html" height="45" alt="HTML5" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS">
-    <img src="https://skillicons.dev/icons?i=css" height="45" alt="CSS3" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=js" height="45" alt="JavaScript" />
-  </a>
-  <a href="https://www.typescriptlang.org/">
-    <img src="https://skillicons.dev/icons?i=ts" height="45" alt="TypeScript" />
-  </a>
-  <a href="https://react.dev/">
-    <img src="https://skillicons.dev/icons?i=react" height="45" alt="React" />
-  </a>
-  <a href="https://nextjs.org/">
-    <img src="https://skillicons.dev/icons?i=nextjs" height="45" alt="Next.js" />
-  </a>
-  <a href="https://tailwindcss.com/">
-    <img src="https://skillicons.dev/icons?i=tailwind" height="45" alt="Tailwind CSS" />
-  </a>
-</p>
-
-### Database
-
-<p align="left">
-  <a href="https://www.mongodb.com/">
-    <img src="https://skillicons.dev/icons?i=mongodb" height="45" alt="MongoDB" />
-  </a>
-</p>
-
+[![Javascript Badge](https://img.shields.io/badge/-Javascript-F0DB4F?style=for-the-badge&labelColor=black&logo=javascript&logoColor=F0DB4F)](#) [![Typescript Badge](https://img.shields.io/badge/-Typescript-007acc?style=for-the-badge&labelColor=black&logo=typescript&logoColor=007acc)](#) [![React Badge](https://img.shields.io/badge/-React-61DBFB?style=for-the-badge&labelColor=black&logo=react&logoColor=61DBFB)](#) [![Next.js Badge](https://img.shields.io/badge/next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)](#) [![Nodejs Badge](https://img.shields.io/badge/-Nodejs-3C873A?style=for-the-badge&labelColor=black&logo=node.js&logoColor=3C873A)](#) [![Express.js Badge](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)](#) [![MongoDB Badge](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#) [![Tailwind Badge](https://img.shields.io/badge/Tailwind%20CSS-092749?style=for-the-badge&logo=tailwindcss&logoColor=06B6D4&labelColor=000000)](#) [![VSCode Badge](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visual%20studio&logoColor=white)](#) [![Git Badge](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](#)
 ### Tools & Platforms
-
-<p align="left">
-  <a href="https://git-scm.com/">
-    <img src="https://skillicons.dev/icons?i=git" height="45" alt="Git" />
-  </a>
-  <a href="https://github.com/">
-    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
-  </a>
-  <a href="https://code.visualstudio.com/">
-    <img src="https://skillicons.dev/icons?i=vscode" height="45" alt="VS Code" />
-  </a>
-  <a href="https://vercel.com/">
-    <img src="https://skillicons.dev/icons?i=vercel" height="45" alt="Vercel" />
-  </a>
-</p>
-
-### AI & Development Tools
-
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=chatgpt" height="45" alt="ChatGPT" />
-</p>
 
 ---
 
@@ -111,43 +52,24 @@ I enjoy turning ideas into functional, user-friendly and responsive web experien
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api?username=samratahmed2000&show_icons=true&hide_border=true"
     alt="GitHub Stats"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&hide_border=true"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=samratahmed2000&layout=compact&hide_border=true"
     alt="Top Languages"
   />
 </p>
 
 <p align="center">
   <img
-    src="https://streak-stats.demolab.com?user=YOUR_GITHUB_USERNAME&hide_border=true"
+    src="https://streak-stats.demolab.com?user=samratahmed2000&hide_border=true"
     alt="GitHub Streak"
   />
 </p>
-
----
-
-## 🤝 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/samratahmed2000">
-    <img src="https://skillicons.dev/icons?i=linkedin" height="45" alt="LinkedIn" />
-  </a>
-  <a href="https://www.github.com/samratahmed2000">
-    <img src="https://skillicons.dev/icons?i=github" height="45" alt="GitHub" />
-  </a>
-  <a href="mailto:ah.samrat.1031@gmail.com">
-  <img src="https://skillicons.dev/icons?i=gmail" height="45" alt="Email" />
-</a>
-</p>
-
-📍 **Location:** Bangladesh
-📧 **Email:** ah.samrat.1031@gmail.com
 
 ---
 
