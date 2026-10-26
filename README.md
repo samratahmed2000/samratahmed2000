@@ -8,11 +8,12 @@ Hi - Welcome <img src="./hello.gif" width="28px" alt="hi">
 </h2>
 
 <h3 align="center">
-  AI-Driven Web Application Engineer | MERN Stack
+  AI-Driven Web Application Engineer
 </h3>
 
 <p align="center">
- I'm Samrat Ahmed (Dhaka, Bangladesh), a Bangladeshi <img src="./bangladesh.png" width="18"/> AI-Driven Web Application Engineer | MERN Stack. I'm exploring building Modern, Responsive and Production-Oriented Web Applications with JavaScript, TypeScript, React, Next.js and the MERN Ecosystem.
+ I'm Samrat Ahmed (Dhaka, Bangladesh), a Bangladeshi <img src="./bangladesh.png" width="18"/> AI-Driven Web Application Engineer. I'm exploring building Modern, Responsive, Real-Life used and Production-Oriented Web Applications with JavaScript, TypeScript, React, Next.js, Node.js, Express.js. Hono, MongoDB, Mongoose and BetterAuth.
+.
 </p>
 
 ---
